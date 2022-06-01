@@ -9,4 +9,4 @@ Project name  | Topics| Short descriptiion
 [Day 04](https://github.com/KhlyninD/Java_Day04)|Packages, java-archives(.jar) and external libraries|Create library archives and use external libraries
 [Day 05](https://github.com/KhlyninD/Java_Day05)|SQL/JDBC|Key mechanisms to work with PostgreSQL DBMS via JDBC
 [Day 06](https://github.com/KhlyninD/Java_Day06)|JUnit/Mockito|Basics of module and integration testing
-[Day 08](https://github.com/KhlyninD/Java_Day06)|Spring|Basics of the Spring framework
+[Day 08](https://github.com/KhlyninD/Java_Day08)|Spring|Basics of the Spring framework
